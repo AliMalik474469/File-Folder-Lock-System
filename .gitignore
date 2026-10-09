@@ -1,0 +1,18 @@
+# Runtime data (may contain sensitive local information)
+lock_pass.dat
+lock_session.dat
+
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE / editor files
+*.dev
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
